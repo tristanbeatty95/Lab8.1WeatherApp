@@ -1,0 +1,8 @@
+package grandcircus.co.weatherLab;
+
+public class Weather {
+
+	private String startPeriodName;
+	private String temperature;
+	private String text;
+}

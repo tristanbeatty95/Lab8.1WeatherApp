@@ -1,0 +1,3 @@
+INDEX VERSION 1.131
+/Users/tristanbeatty/Documents/JavaBootcamp/Lab8.1/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/965978800.index
+/weatherLab/src/main/java
